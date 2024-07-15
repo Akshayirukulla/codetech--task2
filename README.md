@@ -1,3 +1,11 @@
+name: irukulla akshay
+company: codetech it solutions
+id:CTO8DS2390
+domain:full stack
+duration june to july 2024
+mentor: sravani gouni
+
+overview of the project:
 # Snappy - Chat Application 
 Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
 
